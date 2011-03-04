@@ -3,6 +3,11 @@ Information sources used
 
 [Brandon Rhodes' buildout article](http://rhodesmill.org/brandon/buildout/)
 
+[Chapter 7 of Expert Python Programming Book, Packt Publishing, 2008 by Tarek Ziadé]
+
+[Python Geospatial Development, Packt Publishing, 2010 by Erik Westra]
+
+Initially loaded [bootstrap.py (latest version)](http://svn.zope.org/*checkout*/zc.buildout/trunk/bootstrap/bootstrap.py) and created a buildout.cfg file in this READMEs folder, []({{ page.url }}/buildout.cfg):
 
 
 vim: filetype=markdown
