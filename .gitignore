@@ -9,3 +9,4 @@ _site
 /parts
 /.installed.cfg
 /set_aliases.cmd
+/bootstrap.py
