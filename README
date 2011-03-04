@@ -7,7 +7,7 @@ Information sources used
 
 [Python Geospatial Development, Packt Publishing, 2010 by Erik Westra]
 
-Initially loaded [bootstrap.py (latest version)](http://svn.zope.org/*checkout*/zc.buildout/trunk/bootstrap/bootstrap.py) and created a buildout.cfg file in this READMEs folder, []({{ page.url }}/buildout.cfg):
+Initially loaded [bootstrap.py (latest version)](http://svn.zope.org/*checkout*/zc.buildout/trunk/bootstrap/bootstrap.py) and created a buildout.cfg file in this READMEs folder, [](buildout.cfg):
 
 
 vim: filetype=markdown
