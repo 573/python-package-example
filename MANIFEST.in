@@ -1,0 +1,5 @@
+recursive-include src/python_package_example/data *.dbf
+recursive-include src/python_package_example/data *.prj
+recursive-include src/python_package_example/data *.shp
+recursive-include src/python_package_example/data *.shp.xml
+recursive-include src/python_package_example/data *.shx

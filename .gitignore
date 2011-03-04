@@ -1,0 +1,11 @@
+*.*~
+*.swp
+*~
+*.pyc
+*.egg-info
+_site
+/bin
+/develop-eggs
+/parts
+/.installed.cfg
+/set_aliases.cmd
